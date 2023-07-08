@@ -1,0 +1,17 @@
+{
+  "name": "colorsmanager",
+  "version": "1.0.0",
+  "description": "Lib that generates file with class ColorManager for clear accessibility to colors",
+  "type": "module",
+  "main": "ColorManager.js",
+  "author": "raedyk",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/readyyyk/ColorManager",
+  },
+  "scripts": {
+    "build": "node index.js && node ColorManager.js",
+    "test": "node ColorManager.test.js"
+  }
+}
