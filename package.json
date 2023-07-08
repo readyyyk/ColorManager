@@ -1,6 +1,6 @@
 {
   "name": "colorsmanager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lib that generates file with class ColorManager for clear accessibility to colors",
   "type": "module",
   "main": "ColorManager.js",
